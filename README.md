@@ -1,1 +1,1 @@
-# friendzy-app
+# freebook-x app
